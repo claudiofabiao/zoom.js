@@ -1,0 +1,1 @@
+Permite adicionar com facilidade a funcionalidade de zoom em imagens.
